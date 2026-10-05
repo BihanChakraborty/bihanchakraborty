@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1000px" height="335px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffffff;}
+.value {fill: #ffffff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #ffffff;}
+text, tspan {white-space: pre;}
+</style>
+
+<text x="15" y="30" fill="#ffffff">
+<tspan x="15" y="30">@bihanchakraborty</tspan> -——————————————————————————————————————————————————————————————————————————————-—-
+<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................................................................... </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">High School Senior @Auxilium Convent School, Barasat</tspan>
+<tspan x="15" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">Python, Java</tspan>
+<tspan x="15" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .......................................................... </tspan><tspan class="value">English, Hindi, Bengali</tspan>
+<tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Softwares</tspan><tspan class="key"></tspan>:<tspan class="cc"> ................................................................................. </tspan><tspan class="value">DWSIM</tspan>
+<tspan x="15" y="210" class="cc">. </tspan><tspan class="key">Looking For</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Chemical Engineering Research and Internship Positions</tspan>
+<tspan x="15" y="250">- Contact</tspan> -——————————————————————————————————————————————————————————————————————————————————————-—-
+<tspan x="15" y="270" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">bihanchakrabortyofficial@gmail.com</tspan>
+<tspan x="15" y="310" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................................................................... </tspan><tspan class="value">/bihanchakraborty</tspan>
+</text>
+</svg>
